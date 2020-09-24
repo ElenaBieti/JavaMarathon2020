@@ -1,7 +1,11 @@
 package day1;
 
 public class Task1 {
-    public static void main(String[] args) {
-
+    public static void main(String[] args){
+                int value = 0;
+                while (value <10){
+                    System.out.print("Java ");
+                    value = value+1;
+                }
     }
 }
